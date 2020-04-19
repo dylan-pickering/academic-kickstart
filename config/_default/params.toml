@@ -41,10 +41,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Dylan Pickering"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "My name is Dylan Pickering"
 
 ############################
 ## Site Features
@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "dylan.pickering@sydney.edu.au"
 phone = "888 888 88 88"
 
 # Address
