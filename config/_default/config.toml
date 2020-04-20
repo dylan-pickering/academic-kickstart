@@ -20,7 +20,7 @@ copyright = "&copyDylan Pickering {year}"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "new-theme"
+theme = "academia-hugo"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
