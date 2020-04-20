@@ -1,3 +1,0 @@
-$ mkdir themes
-$ cd themes
-$ git clone git@github.com:themefisher/academia-hugo.git
